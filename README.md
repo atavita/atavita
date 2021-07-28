@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atavita
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and data analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing actually
 - 📫 How to reach me : atasurmeli4@gmail.com
